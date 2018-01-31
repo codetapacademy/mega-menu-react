@@ -1,0 +1,11 @@
+.mega-menu {
+    display: flex;
+    list-style-type: none;
+    width: 100%;
+}
+
+.mega-menu__list-item {
+    background-color: lightskyblue;
+    padding: 0.6rem;
+    flex-grow: 1;
+}
